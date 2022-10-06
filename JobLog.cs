@@ -12,19 +12,4 @@
 
         return storedInput;
     }
-
-    private static int DetermineBlankPosition(String[] dayInput)
-    {
-        int i = 0;
-        while (i < dayInput.Length - 1)
-        {
-            if (dayInput[i] == null)
-            {
-                break;
-            }
-            i++;
-        }
-
-        return i;
-    }
 }

@@ -11,7 +11,7 @@
 
         private static void Initialize()
         {
-            Console.WriteLine("Input the date of your last funhouse meeting. Format: dd-MM-yyyy");
+            Console.WriteLine("Input the date of your last meeting. Format: dd-MM-yyyy");
             lastMeeting = Console.ReadLine();
             parsedLastMeeting = DateTime.Parse(lastMeeting);
             todayDate = DateTime.Today;
@@ -160,9 +160,10 @@
             tuesdayItems.Add(date.ToString("dd-MM-yyyy") + " - " + "indeed - " + indeedInput[iIndeed]);
             tuesdayItems.Add(date.ToString("dd-MM-yyyy") + " - " + "Find A Job - " + findajobInput[iFindajob]);
             tuesdayItems.Add(date.ToString("dd-MM-yyyy") + " - " + "Speculative Application - " + specappInput[iSpecApp]);
+            iSpecApp++;
             tuesdayItems.Add(date.ToString("dd-MM-yyyy") + " - " + "Speculative Application - " + specappInput[iSpecApp]);
 
-            iReed++; iJobsite++; iIndeed++; iFindajob++; iSpecApp++; iSpecApp++;
+            iReed++; iJobsite++; iIndeed++; iFindajob++; iSpecApp++;
 
             return tuesdayItems;
         }
