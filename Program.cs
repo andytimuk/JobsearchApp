@@ -1,0 +1,3 @@
+﻿using Funhouse;
+
+ProgramFlow.Run();

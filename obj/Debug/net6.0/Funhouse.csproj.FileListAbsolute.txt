@@ -1,0 +1,15 @@
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\bin\Debug\net6.0\Funhouse.exe
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\bin\Debug\net6.0\Funhouse.deps.json
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\bin\Debug\net6.0\Funhouse.runtimeconfig.json
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\bin\Debug\net6.0\Funhouse.dll
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\bin\Debug\net6.0\Funhouse.pdb
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\obj\Debug\net6.0\Funhouse.csproj.AssemblyReference.cache
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\obj\Debug\net6.0\Funhouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\obj\Debug\net6.0\Funhouse.AssemblyInfoInputs.cache
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\obj\Debug\net6.0\Funhouse.AssemblyInfo.cs
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\obj\Debug\net6.0\Funhouse.csproj.CoreCompileInputs.cache
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\obj\Debug\net6.0\Funhouse.dll
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\obj\Debug\net6.0\refint\Funhouse.dll
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\obj\Debug\net6.0\Funhouse.pdb
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\obj\Debug\net6.0\Funhouse.genruntimeconfig.cache
+C:\Users\44753\Documents\Csharpplayground\Funhouseapp\obj\Debug\net6.0\ref\Funhouse.dll
