@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44753\\Documents\\Csharpplayground\\Funhouseapp\\JobsearchApp.csproj",
+      "projectUniqueName": "C:\\Users\\44753\\Documents\\Csharpplayground\\JobsearchApp\\JobsearchApp.csproj",
       "projectName": "JobsearchApp",
-      "projectPath": "C:\\Users\\44753\\Documents\\Csharpplayground\\Funhouseapp\\JobsearchApp.csproj",
+      "projectPath": "C:\\Users\\44753\\Documents\\Csharpplayground\\JobsearchApp\\JobsearchApp.csproj",
       "packagesPath": "C:\\Users\\44753\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44753\\Documents\\Csharpplayground\\Funhouseapp\\obj\\",
+      "outputPath": "C:\\Users\\44753\\Documents\\Csharpplayground\\JobsearchApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\44753\\AppData\\Roaming\\NuGet\\NuGet.Config",

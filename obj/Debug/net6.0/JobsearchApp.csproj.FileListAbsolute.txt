@@ -1,0 +1,15 @@
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\bin\Debug\net6.0\JobsearchApp.exe
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\bin\Debug\net6.0\JobsearchApp.deps.json
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\bin\Debug\net6.0\JobsearchApp.runtimeconfig.json
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\bin\Debug\net6.0\JobsearchApp.dll
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\bin\Debug\net6.0\JobsearchApp.pdb
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\obj\Debug\net6.0\JobsearchApp.csproj.AssemblyReference.cache
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\obj\Debug\net6.0\JobsearchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\obj\Debug\net6.0\JobsearchApp.AssemblyInfoInputs.cache
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\obj\Debug\net6.0\JobsearchApp.AssemblyInfo.cs
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\obj\Debug\net6.0\JobsearchApp.csproj.CoreCompileInputs.cache
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\obj\Debug\net6.0\JobsearchApp.dll
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\obj\Debug\net6.0\refint\JobsearchApp.dll
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\obj\Debug\net6.0\JobsearchApp.pdb
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\obj\Debug\net6.0\JobsearchApp.genruntimeconfig.cache
+C:\Users\44753\Documents\Csharpplayground\JobsearchApp\obj\Debug\net6.0\ref\JobsearchApp.dll
