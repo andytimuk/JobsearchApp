@@ -1,3 +1,3 @@
-﻿using Funhouse;
+﻿using JobsearchAppFlow;
 
 ProgramFlow.Run();
