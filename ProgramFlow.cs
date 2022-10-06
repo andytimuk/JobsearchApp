@@ -4,7 +4,6 @@
     {
         private static int reedJobAmount, jobsiteAmount, indeedAmount, findajobAmount, specappAmount;
         private static string[] reedInput, jobsiteInput, indeedInput, findajobInput, specappInput;
-        private static string[] mondays, tuesdays, wednesdays, thursdays, fridays;
         private static string path;
         private static string lastMeeting;
         private static DateTime parsedLastMeeting;
